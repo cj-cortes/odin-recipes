@@ -4,6 +4,24 @@
     font-family: Georgia, "Times New Roman", serif;
 }
 
-.sub-heading {
-    color: yellow;
+h1 {
+    color: maroon;
+}
+
+#odin {
+    color: rgb(235, 173, 82);
+}
+
+h3 {
+    color: rgb(214, 86, 0);
+}
+
+.img-sizing-1 {
+    height: 350px;
+    width: auto;
+}
+
+.img-sizing-2 {
+    height: 350px;
+    width: 270px;
 }
